@@ -1,8 +1,16 @@
-body {
-    background-color: red;
+
+.container-fluid {
+    background-color: black;
 }
 
-#checkbody{
-    background-color: yellow;
-    border-radius: 33%;
+.nav-link {
+    color:grey;
+}
+
+.navbar-brand {
+    color:grey;
+}
+body {
+    background-color: rgb(42, 46, 165);
+    
 }
