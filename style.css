@@ -1,11 +1,12 @@
 
-.container-fluid {
+*.container-fluid {
     background-color: black;
-}
+} 
 
 .nav-link {
     color:grey;
 }
+    
 
 .navbar-brand {
     color:grey;
@@ -13,4 +14,14 @@
 body {
     background-color: grey;
     
+}
+
+.jumbotron{
+
+    text-align: left;
+}
+
+.display-4{
+    text-size:large;
+
 }
